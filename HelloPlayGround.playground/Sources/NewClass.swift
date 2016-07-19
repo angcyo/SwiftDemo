@@ -13,6 +13,7 @@ public class Class1{
     }
 }
 
+//注释
 public class Class2{
     public var value : Int = 0
     
